@@ -1,0 +1,1001 @@
+OptionSetName,Option,IsUserLocalized,LocalizedLabelLanguageCode,LocalizedLabel,GlobalOptionSetName,EntityName,RecordCreateDats,RecordCreateJobID,RecordUpdateDats,RecordUpdateJobID,IsUserLocalizedLabel
+dow_area,100000000,"",1033,NAA,dow_regionoptionset,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000001,"",1033,LAA,dow_regionoptionset,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000002,"",1033,EMEAI,dow_regionoptionset,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000003,"",1033,APAC,dow_regionoptionset,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+onlinemeetingtype,1,"",1033,Teams Meeting,onlinemeetingtype,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isonlinemeeting,1,"",1033,Yes,isonlinemeeting,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isonlinemeeting,0,"",1033,No,isonlinemeeting,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,appointment,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920000,"",1033,General - Include,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920001,"",1033,Exclude,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920002,"",1033,Trader/Broker,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920003,"",1033,Competitor,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920004,"",1033,Distributor,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920005,"",1033,Compounder,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920006,"",1033,Internal,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920007,"",1033,Co Producer,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920008,"",1033,Direct,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channel,179920009,"",1033,Subcontractor,dow_channeltype,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerclassification,0,"",1033,Key,dow_customerclassification,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerclassification,1,"",1033,Priority,dow_customerclassification,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerclassification,2,"",1033,Foundational,dow_customerclassification,account,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_campaignregion,1,"",1033,NAA,dow_regionoptionsetwithglobal,campaign,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_campaignregion,2,"",1033,LAA,dow_regionoptionsetwithglobal,campaign,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_campaignregion,3,"",1033,EMEAI,dow_regionoptionsetwithglobal,campaign,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_campaignregion,4,"",1033,APAC,dow_regionoptionsetwithglobal,campaign,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_campaignregion,5,"",1033,Global,dow_regionoptionsetwithglobal,campaign,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,5,"",1033,Cortana,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,6,"",1033,Direct Line,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,7,"",1033,Microsoft Teams,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,8,"",1033,Direct Line Speech,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,9,"",1033,Email,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,10,"",1033,GroupMe,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,11,"",1033,Kik,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,12,"",1033,Telegram,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,13,"",1033,Skype,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,14,"",1033,Slack,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,15,"",1033,WhatsApp,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,16,"",1033,Apple Messages For Business,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,17,"",1033,Google's Business Messages,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,3,"",1033,Line,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,4,"",1033,Wechat,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,1,"",1033,Facebook,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,2,"",1033,Twitter,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,0,"",1033,Other,socialprofile_community,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,0,"",1033,Low,activitypointer_deliveryprioritycode,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,1,"",1033,Normal,activitypointer_deliveryprioritycode,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,2,"",1033,High,activitypointer_deliveryprioritycode,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,activitypointer,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,1,"",1033,Business,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,2,"",1033,Family,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,3,"",1033,Social,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,4,"",1033,Sales,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,5,"",1033,Other,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,1000,"",1033,Stakeholder,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,1001,"",1033,Sales Team,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,1002,"",1033,Service,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,1003,"",1033,Transplant,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_category,2004,"",1033,Sales Team Contact,connectionrole_category,connection,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,5,"",1033,Cortana,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,6,"",1033,Direct Line,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,7,"",1033,Microsoft Teams,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,8,"",1033,Direct Line Speech,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,9,"",1033,Email,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,10,"",1033,GroupMe,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,11,"",1033,Kik,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,12,"",1033,Telegram,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,13,"",1033,Skype,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,14,"",1033,Slack,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,15,"",1033,WhatsApp,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,16,"",1033,Apple Messages For Business,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,17,"",1033,Google's Business Messages,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,3,"",1033,Line,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,4,"",1033,Wechat,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,1,"",1033,Facebook,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,2,"",1033,Twitter,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,0,"",1033,Other,socialprofile_community,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,0,"",1033,Low,activitypointer_deliveryprioritycode,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,1,"",1033,Normal,activitypointer_deliveryprioritycode,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,2,"",1033,High,activitypointer_deliveryprioritycode,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,campaignresponse,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,1,"",1033,Business,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,2,"",1033,Family,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,3,"",1033,Social,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,4,"",1033,Sales,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,5,"",1033,Other,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,1000,"",1033,Stakeholder,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,1001,"",1033,Sales Team,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,1002,"",1033,Service,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,1003,"",1033,Transplant,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+category,2004,"",1033,Sales Team Contact,connectionrole_category,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,0,"",1033,Published,componentstate,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,1,"",1033,Unpublished,componentstate,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,2,"",1033,Deleted,componentstate,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,3,"",1033,Deleted Unpublished,componentstate,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+ismanaged,1,"",1033,Managed,ismanaged,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+ismanaged,0,"",1033,Unmanaged,ismanaged,connectionrole,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,1,"",1033,C-level,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,8,"",1033,CEO/Owner,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,3,"",1033,Director,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,4,"",1033,Manager,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,5,"",1033,Other,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,2,"",1033,Specialist,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,6,"",1033,Student/Intern,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_jobposition,7,"",1033,Vice President,dow_jobposition,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,6,"",1033,Affiliates/3rd Party,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,20,"",1033,Chat,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,21,"",1033,Direct Mail,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,2,"",1033,Distributor,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,22,"",1033,eMarket Places,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,10,"",1033,Email Marketing,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,9,"",1033,Other Events,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,23,"",1033,Paid Search,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,24,"",1033,Phone/Visit,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,25,"",1033,Seminar,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,11,"",1033,Social Media Organic,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,26,"",1033,Social Media Paid,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,17,"",1033,Tradeshow,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,7,"",1033,Website,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,18,"",1033,Webinar,dow_source,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1025,"",1033,Arabic,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1069,"",1033,Basque - Basque,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1026,"",1033,Bulgarian - Bulgaria,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1027,"",1033,Catalan - Catalan,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,2052,"",1033,Chinese - China,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,3076,"",1033,Chinese - Hong Kong SAR,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1028,"",1033,Chinese - Traditional,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1050,"",1033,Croatian - Croatia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1029,"",1033,Czech - Czech Republic,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1030,"",1033,Danish - Denmark,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1043,"",1033,Dutch - Netherlands,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1033,"",1033,English,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1061,"",1033,Estonian - Estonia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1035,"",1033,Finnish - Finland,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1036,"",1033,French - France,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1110,"",1033,Galician - Spain,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1031,"",1033,German - Germany,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1032,"",1033,Greek - Greece,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1037,"",1033,Hebrew,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1081,"",1033,Hindi - India,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1038,"",1033,Hungarian - Hungary,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1057,"",1033,Indonesian - Indonesia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1040,"",1033,Italian - Italy,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1041,"",1033,Japanese - Japan,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1087,"",1033,Kazakh - Kazakhstan,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1042,"",1033,Korean - Korea,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1062,"",1033,Latvian - Latvia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1063,"",1033,Lithuanian - Lithuania,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1086,"",1033,Malay - Malaysia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1044,"",1033,Norwegian (Bokmål) - Norway,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1045,"",1033,Polish - Poland,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1046,"",1033,Portuguese - Brazil,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,2070,"",1033,Portuguese - Portugal,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1048,"",1033,Romanian - Romania,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1049,"",1033,Russian - Russia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,3098,"",1033,Serbian (Cyrillic) - Serbia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,2074,"",1033,Serbian (Latin) - Serbia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1051,"",1033,Slovak - Slovakia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1060,"",1033,Slovenian - Slovenia,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,3082,"",1033,Spanish (Traditional Sort) - Spain,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1053,"",1033,Swedish - Sweden,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1054,"",1033,Thai - Thailand,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1055,"",1033,Turkish - Türkiye,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1058,"",1033,Ukrainian - Ukraine,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+mspp_userpreferredlcid,1066,"",1033,Vietnamese - Vietnam,powerpagelanguages,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_user_role,635970000,"",1033,Administrator,zift_user_role,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_user_role,635970001,"",1033,Marketing,zift_user_role,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_user_role,635970002,"",1033,Sales Representative,zift_user_role,contact,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,1,"",1033,RORD - Repeat Order Entry (MSO),dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,2,"",1033,# - Manual,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,3,"",1033,EEDI - EDI (via Elemica),dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,4,"",1033,EP2X - Print to XML-Elemica,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,5,"",1033,EPDB - eCom PD Block,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,6,"",1033,EVMI - VMI - Elemica,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,7,"",1033,EXML - XML (via Elemica),dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,8,"",1033,XML - XML,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,9,"",1033,IP2X - Internal PrintXML-El,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,10,"",1033,WEBE - WEB Orders-External,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,11,"",1033,WEBI - WEB Orders-Internal,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,12,"",1033,ISS - MyA@DOW Sales Order,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,13,"",1033,ISSR - InternalMyA@DowOrder,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,14,"",1033,SCPT - Scripting,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,15,"",1033,IPDB - Internal eComm PDBlk,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,16,"",1033,EMAI - E-Mail,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,17,"",1033,TELE - By telephone,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,18,"",1033,#FAX - FAX (Manual entry),dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,19,"",1033,#MAI - MAIL (Manual entry),dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,20,"",1033,#TEL - TELEPHONE (Man.Entry,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,21,"",1033,APO - APO,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,22,"",1033,CCPR - Contr Customer Price,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,23,"",1033,CDPR - Contr Distr Pricing,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,24,"",1033,DFUE - By telecommunication,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,25,"",1033,MUEN - Orally,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,26,"",1033,SAGN - Grains - Sagnet,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,27,"",1033,SCHR - Written,dow_customerpotype,dow_accountmanual,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,1,"",1033,RORD - Repeat Order Entry (MSO),dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,2,"",1033,# - Manual,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,3,"",1033,EEDI - EDI (via Elemica),dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,4,"",1033,EP2X - Print to XML-Elemica,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,5,"",1033,EPDB - eCom PD Block,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,6,"",1033,EVMI - VMI - Elemica,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,7,"",1033,EXML - XML (via Elemica),dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,8,"",1033,XML - XML,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,9,"",1033,IP2X - Internal PrintXML-El,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,10,"",1033,WEBE - WEB Orders-External,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,11,"",1033,WEBI - WEB Orders-Internal,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,12,"",1033,ISS - MyA@DOW Sales Order,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,13,"",1033,ISSR - InternalMyA@DowOrder,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,14,"",1033,SCPT - Scripting,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,15,"",1033,IPDB - Internal eComm PDBlk,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,16,"",1033,EMAI - E-Mail,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,17,"",1033,TELE - By telephone,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,18,"",1033,#FAX - FAX (Manual entry),dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,19,"",1033,#MAI - MAIL (Manual entry),dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,20,"",1033,#TEL - TELEPHONE (Man.Entry,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,21,"",1033,APO - APO,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,22,"",1033,CCPR - Contr Customer Price,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,23,"",1033,CDPR - Contr Distr Pricing,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,24,"",1033,DFUE - By telecommunication,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,25,"",1033,MUEN - Orally,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,26,"",1033,SAGN - Grains - Sagnet,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,27,"",1033,SCHR - Written,dow_customerpotype,dow_accountmanualshipto,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,1,"",1033,RORD - Repeat Order Entry (MSO),dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,2,"",1033,# - Manual,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,3,"",1033,EEDI - EDI (via Elemica),dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,4,"",1033,EP2X - Print to XML-Elemica,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,5,"",1033,EPDB - eCom PD Block,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,6,"",1033,EVMI - VMI - Elemica,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,7,"",1033,EXML - XML (via Elemica),dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,8,"",1033,XML - XML,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,9,"",1033,IP2X - Internal PrintXML-El,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,10,"",1033,WEBE - WEB Orders-External,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,11,"",1033,WEBI - WEB Orders-Internal,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,12,"",1033,ISS - MyA@DOW Sales Order,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,13,"",1033,ISSR - InternalMyA@DowOrder,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,14,"",1033,SCPT - Scripting,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,15,"",1033,IPDB - Internal eComm PDBlk,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,16,"",1033,EMAI - E-Mail,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,17,"",1033,TELE - By telephone,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,18,"",1033,#FAX - FAX (Manual entry),dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,19,"",1033,#MAI - MAIL (Manual entry),dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,20,"",1033,#TEL - TELEPHONE (Man.Entry,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,21,"",1033,APO - APO,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,22,"",1033,CCPR - Contr Customer Price,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,23,"",1033,CDPR - Contr Distr Pricing,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,24,"",1033,DFUE - By telecommunication,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,25,"",1033,MUEN - Orally,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,26,"",1033,SAGN - Grains - Sagnet,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_customerpotype,27,"",1033,SCHR - Written,dow_customerpotype,dow_accountmanualproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_entity,1,"",1033,Account,dow_entity,dow_attributecategory,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_entity,2,"",1033,Contact,dow_entity,dow_attributecategory,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_entity,3,"",1033,Opportunity,dow_entity,dow_attributecategory,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000000,"",1033,NAA,dow_regionoptionset,dow_attributecategoryvalue,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000001,"",1033,LAA,dow_regionoptionset,dow_attributecategoryvalue,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000002,"",1033,EMEAI,dow_regionoptionset,dow_attributecategoryvalue,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000003,"",1033,APAC,dow_regionoptionset,dow_attributecategoryvalue,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_fulfillmentsource,179920000,"",1033,OctoChem,dow_fulfillmentsource,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_fulfillmentsource,179920001,"",1033,Chemical Marketing (CMC),dow_fulfillmentsource,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_fulfillmentsource,179920002,"",1033,Sample Team,dow_fulfillmentsource,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_fulfillmentsource,179920003,"",1033,Other,dow_fulfillmentsource,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,25,"",1033,BAG,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,19,"",1033,BF,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,8,"",1033,BG,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,45,"",1033,BKT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,24,"",1033,BT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,26,"",1033,CAN,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,1,"",1033,CF,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,27,"",1033,CNS,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,28,"",1033,CTD,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,29,"",1033,CTN,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,23,"",1033,DMT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,30,"",1033,DR,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,21,"",1033,DST,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,2,"",1033,EA,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,31,"",1033,FT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,20,"",1033,GL,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,33,"",1033,H,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,44,"",1033,IBC,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,34,"",1033,JER,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,3,"",1033,KG,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,35,"",1033,KIT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,4,"",1033,L,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,9,"",1033,L9,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,36,"",1033,LB,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,5,"",1033,LBS,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,37,"",1033,LF2,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,22,"",1033,LMT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,38,"",1033,LPR,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,10,"",1033,LS,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,6,"",1033,LV,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,7,"",1033,M3,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,11,"",1033,MT,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,12,"",1033,NA,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,13,"",1033,PC,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,14,"",1033,PECKS,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,40,"",1033,PL,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,15,"",1033,RL,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,41,"",1033,ROL,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,42,"",1033,SGE,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,17,"",1033,TN,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,43,"",1033,TUB,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_uom,18,"",1033,UNITS,dow_cigglobaluom,dow_caseproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,1,"",1033,NAA,dow_globalregion,dow_contractproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,2,"",1033,EMEAI,dow_globalregion,dow_contractproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,3,"",1033,APAC,dow_globalregion,dow_contractproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,4,"",1033,LAA,dow_globalregion,dow_contractproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,5,"",1033,Global,dow_globalregion,dow_contractproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_marketlevel,1,"",1033,Application,dow_marketapplicationlevel,dow_dowbusinessmarket,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_marketlevel,2,"",1033,Market Segment,dow_marketapplicationlevel,dow_dowbusinessmarket,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_marketlevel,3,"",1033,Market Segment Parent,dow_marketapplicationlevel,dow_dowbusinessmarket,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,5,"",1033,Cortana,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,6,"",1033,Direct Line,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,7,"",1033,Microsoft Teams,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,8,"",1033,Direct Line Speech,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,9,"",1033,Email,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,10,"",1033,GroupMe,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,11,"",1033,Kik,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,12,"",1033,Telegram,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,13,"",1033,Skype,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,14,"",1033,Slack,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,15,"",1033,WhatsApp,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,16,"",1033,Apple Messages For Business,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,17,"",1033,Google's Business Messages,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,3,"",1033,Line,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,4,"",1033,Wechat,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,1,"",1033,Facebook,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,2,"",1033,Twitter,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,0,"",1033,Other,socialprofile_community,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,0,"",1033,Low,activitypointer_deliveryprioritycode,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,1,"",1033,Normal,activitypointer_deliveryprioritycode,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,2,"",1033,High,activitypointer_deliveryprioritycode,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,dow_salesaid,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920003,"",1033,COVID-19,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,1,"",1033,Cross-Selling,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920000,"",1033,CX Survey,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920004,"",1033,Hybrid,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,9,"",1033,Nearshoring,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,4,"",1033,None,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,6,"",1033,Olympics,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,7,"",1033,Orion Opportunity,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920001,"",1033,Sadara,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920005,"",1033,Sports Marketing,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,8,"",1033,Sustainability,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920002,"",1033,Value Chain,dow_initiatives,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,1,"",1033,Safe Materials,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,2,"",1033,Resource Efficiency,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,3,"",1033,Climate Protection,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,4,"",1033,Circular Economy,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,5,"",1033,Golf,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,6,"",1033,Mobility,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,7,"",1033,Other,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,8,"",1033,Formula E/Jaguar Racing,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,9,"",1033,NASCAR/RCR,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,10,"",1033,LPGA Tour,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,11,"",1033,PGA Tour,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,12,"",1033,USA Luge,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,13,"",1033,Tennis,dow_sustainabilitycategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920000,"",1033,Climate Protection,dow_sustainability,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920001,"",1033,Circular Economy,dow_sustainability,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920002,"",1033,Safer Materials,dow_sustainability,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920004,"",1033,Advanced Recycling,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920002,"",1033,Avoided Emissions,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920005,"",1033,Bio-based,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920006,"",1033,Biodegradable,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920001,"",1033,Carbon-neutral,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920007,"",1033,Design for Circularity,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920000,"",1033,Low-carbon,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920003,"",1033,Mechanical Recycling,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920009,"",1033,Protect Life & Earth,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920010,"",1033,Resource - Circularity,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920011,"",1033,Resource Efficiency - Climate,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920008,"",1033,Safer Alternatives,dow_sustainabilitysubcategory,dow_reportofcall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_amendmenttype,1,"",1033,Amendment,dow_amendmenttype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_amendmenttype,2,"",1033,Supplementary Agreement,dow_amendmenttype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_amendmenttype,3,"",1033,Individual Supplementary Agreement,dow_amendmenttype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_authorizationtype,1,"",1033,Market,dow_authorizationtype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_authorizationtype,2,"",1033,Non-Market,dow_authorizationtype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_contracttype,1,"",1033,Formal,dow_contracttype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_contracttype,2,"",1033,Rebate,dow_contracttype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_contracttype,3,"",1033,Distribution,dow_contracttype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_rebatestructure,1,"",1033,Volume,dow_rebatestructure,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_rebatestructure,2,"",1033,Percentage,dow_rebatestructure,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_rebatestructure,3,"",1033,Fixed,dow_rebatestructure,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_rebatestructure,4,"",1033,Per Unit,dow_rebatestructure,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_rebatestructure,5,"",1033,Other,dow_rebatestructure,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_termtype,1,"",1033,Fixed,dow_termtype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_termtype,2,"",1033,Evergreen,dow_termtype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_termtype,3,"",1033,Auto Renew,dow_termtype,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000000,"",1033,NAA,dow_regionoptionset,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000001,"",1033,LAA,dow_regionoptionset,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000002,"",1033,EMEAI,dow_regionoptionset,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000003,"",1033,APAC,dow_regionoptionset,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,1,"",1033,EXW,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,2,"",1033,FCA,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,3,"",1033,FAS,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,4,"",1033,FOB,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,5,"",1033,CFR,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,6,"",1033,CIF,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,7,"",1033,CPT,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,8,"",1033,CIP,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,179920000,"",1033,DAP,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,179920001,"",1033,DDP,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_incoterms,179920002,"",1033,DPU,dow_incoterms,dow_salescontract,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000000,"",1033,NAA,dow_regionoptionset,dow_salesregion,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000001,"",1033,LAA,dow_regionoptionset,dow_salesregion,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000002,"",1033,EMEAI,dow_regionoptionset,dow_salesregion,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000003,"",1033,APAC,dow_regionoptionset,dow_salesregion,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,5,"",1033,Cortana,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,6,"",1033,Direct Line,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,7,"",1033,Microsoft Teams,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,8,"",1033,Direct Line Speech,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,9,"",1033,Email,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,10,"",1033,GroupMe,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,11,"",1033,Kik,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,12,"",1033,Telegram,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,13,"",1033,Skype,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,14,"",1033,Slack,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,15,"",1033,WhatsApp,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,16,"",1033,Apple Messages For Business,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,17,"",1033,Google's Business Messages,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,3,"",1033,Line,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,4,"",1033,Wechat,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,1,"",1033,Facebook,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,2,"",1033,Twitter,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,0,"",1033,Other,socialprofile_community,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,0,"",1033,Low,activitypointer_deliveryprioritycode,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,1,"",1033,Normal,activitypointer_deliveryprioritycode,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,2,"",1033,High,activitypointer_deliveryprioritycode,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,dow_sample,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,0,"",1033,Low,activitypointer_deliveryprioritycode,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,1,"",1033,Normal,activitypointer_deliveryprioritycode,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,2,"",1033,High,activitypointer_deliveryprioritycode,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000000,"",1033,NAA,dow_regionoptionset,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000001,"",1033,LAA,dow_regionoptionset,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000002,"",1033,EMEAI,dow_regionoptionset,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000003,"",1033,APAC,dow_regionoptionset,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isemailfollowed,1,"",1033,Yes,activitypointer_isemailfollowed,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isemailfollowed,0,"",1033,No,activitypointer_isemailfollowed,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isemailreminderset,1,"",1033,Yes,email_isemailreminderset,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isemailreminderset,0,"",1033,No,email_isemailreminderset,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,email,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+caseorigincode,179920001,"",1033,Contact Us Form,incident_caseorigincode,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+caseorigincode,2,"",1033,Email,incident_caseorigincode,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+caseorigincode,1,"",1033,Phone,incident_caseorigincode,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+caseorigincode,179920002,"",1033,Social Media,incident_caseorigincode,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+caseorigincode,179920003,"",1033,Web Chat,incident_caseorigincode,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+caseorigincode,179920004,"",1033,Web Form,incident_caseorigincode,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_acknowledgementcommunication,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_acknowledgementcommunication,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_acknowledgementcommunication,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920000,"",1033,10-Correct/Improve Training,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920001,"",1033,20-Correct/Improve Software (Systems),dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920002,"",1033,30-Correct/Improve Equipment,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920003,"",1033,40-Correct/Improve Performance (OD),dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920004,"",1033,50-Correct/Improve Processes/Procedures,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920005,"",1033,60-Correct/Improve Resource Allocation,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920006,"",1033,70-Correct/Improve Resource Definition,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920007,"",1033,"80-Beyond Control (weather, war, env.)",dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920008,"",1033,90-No Action to be considered,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920009,"",1033,100-Improvement Project,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920010,"",1033,110-Correct/Improve Communication,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_capa,179920011,"",1033,120-Correct/Improve Data Maintenance,dow_capa,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_complaintconcluded,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_complaintconcluded,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_complaintconcluded,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_complaintflow,0,"",1033,Containment Only (Fast),dow_complaintflow,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_complaintflow,1,"",1033,Containment & Investigation (Full),dow_complaintflow,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_complaintflow,2,"",1033,Internal Complaint,dow_complaintflow,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentconcluded,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentconcluded,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentconcluded,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentplan,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentplan,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentplan,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentplancommunication,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentplancommunication,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentplancommunication,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentstatuscommunication,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentstatuscommunication,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_containmentstatuscommunication,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationconcluded,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationconcluded,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationconcluded,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationplan,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationplan,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationplan,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationplancommunication,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationplancommunication,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationplancommunication,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationstatuscommunication,0,"",1033,Not Started,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationstatuscommunication,1,"",1033,In Progress,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_cc_investigationstatuscommunication,2,"",1033,Completed,dow_taskstatus,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_countryregion,100000000,"",1033,NAA,dow_regionoptionset,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_countryregion,100000001,"",1033,LAA,dow_regionoptionset,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_countryregion,100000002,"",1033,EMEAI,dow_regionoptionset,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_countryregion,100000003,"",1033,APAC,dow_regionoptionset,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920000,"",1033,Afrikaans,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920001,"",1033,Arabic,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920002,"",1033,Brazilian Portug,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920003,"",1033,Bulgarian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920004,"",1033,Chinese,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920005,"",1033,Chinese trad.,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920006,"",1033,Croatian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920007,"",1033,Customer reserve,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920008,"",1033,Czech,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920009,"",1033,Danish,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920010,"",1033,Dutch,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920011,"",1033,English,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920012,"",1033,Estonian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920013,"",1033,Finnish,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920014,"",1033,French,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920015,"",1033,German,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920016,"",1033,Greek,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920017,"",1033,Hebrew,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920018,"",1033,Hungarian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920019,"",1033,Italian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920020,"",1033,Japanese,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920021,"",1033,Korean,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920022,"",1033,Latvian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920023,"",1033,Lithuanian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920024,"",1033,Malaysian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920025,"",1033,Norwegian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920026,"",1033,Polish,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920027,"",1033,Portuguese,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920028,"",1033,Romanian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920029,"",1033,Russian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920030,"",1033,Serbian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920031,"",1033,Slovakian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920032,"",1033,Slovenian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920033,"",1033,Spanish,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920034,"",1033,Swedish,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920035,"",1033,Thai,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920036,"",1033,Turkish,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_language,179920037,"",1033,Ukrainian,dow_languagecig,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_resolutiondetails,179920000,"",1033,Internal,dow_statusreason,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_resolutiondetails,179920001,"",1033,Business Collaboration,dow_statusreason,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_resolutiondetails,179920002,"",1033,Escalation,dow_statusreason,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_resolutiondetails,179920003,"",1033,Referred to Distribution,dow_statusreason,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,5,"",1033,Z012 APA - Air,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,6,"",1033,ZD04 APA - Cont Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,7,"",1033,ZR04 APA - Cont Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,8,"",1033,ZI04 APA - Inbound,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,9,"",1033,Z052 APA - Marine Bulk,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,10,"",1033,ZR08 APA - Master Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,11,"",1033,ZM04 APA - MRO,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,12,"",1033,ZD08 APA - Mstr Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,13,"",1033,Z010 APA - Rail,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,14,"",1033,Z024 APA - Returns,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,15,"",1033,Z009 APA - Road,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,16,"",1033,Z011 APA - Waterway,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,17,"",1033,Z069 APA-DefinedDeptAir,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,18,"",1033,Z077 APA-DefinedDeptBarge,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,19,"",1033,Z073 APA-DefinedDeptDest,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,20,"",1033,Z065 APA-DefinedDeptLCL,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,21,"",1033,Z085 APA-DefinedDeptMPC,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,22,"",1033,Z061 APA-DefinedDeptRoad,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,23,"",1033,Z028 APA-Divert/Reconsign,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,24,"",1033,Z057 APA-MPC/Air Shuttle,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,25,"",1033,Z019 APA-Pipeline/Virtual,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,26,"",1033,Z032 APA-Revision,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,27,"",1033,Z036 APA-TC-Container,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,28,"",1033,Z040 APA-TC-Master,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,29,"",1033,Z008 EMA - Air,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,30,"",1033,ZD02 EMA - Cont Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,31,"",1033,ZR02 EMA - Cont Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,32,"",1033,ZI02 EMA - Inbound,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,33,"",1033,Z051 EMA - Marine Bulk,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,34,"",1033,ZR06 EMA - Master Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,35,"",1033,ZM02 EMA - MRO,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,36,"",1033,ZD06 EMA - Mstr Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,3,"",1033,Z004 EMA - Rail,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,37,"",1033,Z022 EMA - Returns,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,1,"",1033,Z002 EMA - Road,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,38,"",1033,ZT02 EMA - TMS,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,39,"",1033,Z006 EMA - Waterway,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,40,"",1033,Z026 EMA-Divert/Reconsign,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,41,"",1033,Z055 EMA-MPC/Air Shuttle,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,42,"",1033,Z018 EMA-Pipeline/Virtual,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,43,"",1033,Z041 EMA-Rail-TC-Cont,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,44,"",1033,Z042 EMA-Rail-TC-Master,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,45,"",1033,Z030 EMA-Revision,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,46,"",1033,Z034 EMA-TC-Container,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,47,"",1033,Z038 EMA-TC-Master,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,48,"",1033,Z016 LAA - Air,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,49,"",1033,ZD03 LAA - Cont Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,50,"",1033,ZR03 LAA - Cont Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,51,"",1033,ZI03 LAA - Inbound,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,52,"",1033,Z053 LAA - Marine Bulk,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,53,"",1033,ZR07 LAA - Master Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,54,"",1033,ZM03 LAA - MRO,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,55,"",1033,ZD07 LAA - Mstr Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,56,"",1033,Z014 LAA - Rail,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,57,"",1033,Z023 LAA - Returns,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,4,"",1033,Z013 LAA - Road,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,58,"",1033,Z015 LAA - Waterway,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,59,"",1033,Z027 LAA-Divert/Reconsign,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,60,"",1033,Z056 LAA-MPC/Air Shuttle,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,61,"",1033,Z020 LAA-Pipeline/Virtual,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,62,"",1033,Z031 LAA-Revision,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,63,"",1033,Z035 LAA-TC-Container,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,64,"",1033,Z039 LAA-TC-Master,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,65,"",1033,Z007 NAA - Air,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,66,"",1033,ZD01 NAA - Cont Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,67,"",1033,ZR01 NAA - Cont Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,68,"",1033,ZI01 NAA - Inbound,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,69,"",1033,Z050 NAA - Marine Bulk,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,70,"",1033,ZR05 NAA - Master Return,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,71,"",1033,ZM01 NAA - MRO,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,72,"",1033,ZD05 NAA - Mstr Diversion,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,2,"",1033,Z003 NAA - Rail,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,73,"",1033,Z021 NAA - Returns,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,0,"",1033,Z001 NAA - Road,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,74,"",1033,ZT01 NAA - TMS,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,75,"",1033,Z005 NAA - Waterway,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,76,"",1033,Z066 NAA-DefinedDeptAir,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,77,"",1033,Z074 NAA-DefinedDeptBarge,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,78,"",1033,Z070 NAA-DefinedDeptDest,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,79,"",1033,Z062 NAA-DefinedDeptLCL,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,80,"",1033,Z078 NAA-DefinedDeptRail,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,81,"",1033,Z059 NAA-DefinedDeptRoad,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,82,"",1033,Z025 NAA-Divert/Reconsign,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,83,"",1033,Z054 NAA-MPC/Air Shuttle,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,84,"",1033,Z017 NAA-Pipeline/Virtual,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,85,"",1033,Z029 NAA-Revision,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,86,"",1033,Z058 NAA-Road Shuttle,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,87,"",1033,Z033 NAA-TC-Container,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_shipmenttype,88,"",1033,Z037 NAA-TC-Master,dow_shipmenttype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+messagetypecode,0,"",1033,Public Message,socialactivity_postmessagetype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+messagetypecode,1,"",1033,Private Message,socialactivity_postmessagetype,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+servicestage,0,"",1033,Identify,servicestage,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+servicestage,1,"",1033,Research,servicestage,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+servicestage,2,"",1033,Resolve,servicestage,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+blockedprofile,1,"",1033,Yes,socialprofile_isblocked,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+blockedprofile,0,"",1033,No,socialprofile_isblocked,incident,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,0,"",1033,No Committed Budget,budgetstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,1,"",1033,May Buy,budgetstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,2,"",1033,Can Buy,budgetstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,3,"",1033,Will Buy,budgetstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,6,"",1033,Admin,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,12,"",1033,Consulting,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,13,"",1033,Design,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,11,"",1033,Finance/Accounting,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,179920001,"",1033,Inclusion & Diversity,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,8,"",1033,Legal,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,18,"",1033,Logistics,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,16,"",1033,Management/Executive,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,3,"",1033,Marketing,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,5,"",1033,Operations,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,15,"",1033,Other,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,19,"",1033,Payables,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,14,"",1033,Project Management,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,2,"",1033,Purchasing,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,9,"",1033,Regulatory/Quality,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,7,"",1033,Sales,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,17,"",1033,Site Logistics,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,10,"",1033,Supply Chain,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,179920000,"",1033,Sustainability,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_function,1,"",1033,Technical/R&D,dow_function,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920003,"",1033,COVID-19,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,1,"",1033,Cross-Selling,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920000,"",1033,CX Survey,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920004,"",1033,Hybrid,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,9,"",1033,Nearshoring,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,4,"",1033,None,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,6,"",1033,Olympics,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,7,"",1033,Orion Opportunity,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920001,"",1033,Sadara,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920005,"",1033,Sports Marketing,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,8,"",1033,Sustainability,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_initiative,179920002,"",1033,Value Chain,dow_initiatives,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,6,"",1033,Affiliates/3rd Party,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,20,"",1033,Chat,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,21,"",1033,Direct Mail,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,2,"",1033,Distributor,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,22,"",1033,eMarket Places,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,10,"",1033,Email Marketing,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,9,"",1033,Other Events,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,23,"",1033,Paid Search,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,24,"",1033,Phone/Visit,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,25,"",1033,Seminar,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,11,"",1033,Social Media Organic,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,26,"",1033,Social Media Paid,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,17,"",1033,Tradeshow,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,7,"",1033,Website,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_leadsourcetype,18,"",1033,Webinar,dow_source,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,1,"",1033,Safe Materials,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,2,"",1033,Resource Efficiency,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,3,"",1033,Climate Protection,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,4,"",1033,Circular Economy,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,5,"",1033,Golf,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,6,"",1033,Mobility,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,7,"",1033,Other,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,8,"",1033,Formula E/Jaguar Racing,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,9,"",1033,NASCAR/RCR,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,10,"",1033,LPGA Tour,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,11,"",1033,PGA Tour,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,12,"",1033,USA Luge,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,13,"",1033,Tennis,dow_sustainabilitycategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920000,"",1033,Climate Protection,dow_sustainability,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920001,"",1033,Circular Economy,dow_sustainability,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920002,"",1033,Safer Materials,dow_sustainability,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920004,"",1033,Advanced Recycling,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920002,"",1033,Avoided Emissions,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920005,"",1033,Bio-based,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920006,"",1033,Biodegradable,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920001,"",1033,Carbon-neutral,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920007,"",1033,Design for Circularity,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920000,"",1033,Low-carbon,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920003,"",1033,Mechanical Recycling,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920009,"",1033,Protect Life & Earth,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920010,"",1033,Resource - Circularity,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920011,"",1033,Resource Efficiency - Climate,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920008,"",1033,Safer Alternatives,dow_sustainabilitysubcategory,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+initialcommunication,0,"",1033,Contacted,initialcommunication,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+initialcommunication,1,"",1033,Not Contacted,initialcommunication,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadgrade,0,"",1033,Grade A,msdyn_leadgradeoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadgrade,1,"",1033,Grade B,msdyn_leadgradeoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadgrade,2,"",1033,Grade C,msdyn_leadgradeoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadgrade,3,"",1033,Grade D,msdyn_leadgradeoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadscoretrend,0,"",1033,Improving,msdyn_leadscoretrendoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadscoretrend,1,"",1033,Steady,msdyn_leadscoretrendoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadscoretrend,2,"",1033,Declining,msdyn_leadscoretrendoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+msdyn_leadscoretrend,3,"",1033,Not enough info,msdyn_leadscoretrendoptset,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+need,0,"",1033,Must have,need,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+need,1,"",1033,Should have,need,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+need,2,"",1033,Good to have,need,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+need,3,"",1033,No need,need,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchaseprocess,0,"",1033,Individual,purchaseprocess,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchaseprocess,1,"",1033,Committee,purchaseprocess,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchaseprocess,2,"",1033,Unknown,purchaseprocess,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchasetimeframe,0,"",1033,Immediate,purchasetimeframe,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchasetimeframe,1,"",1033,This Quarter,purchasetimeframe,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchasetimeframe,2,"",1033,Next Quarter,purchasetimeframe,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchasetimeframe,3,"",1033,This Year,purchasetimeframe,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+purchasetimeframe,4,"",1033,Unknown,purchasetimeframe,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+salesstage,0,"",1033,Qualify,lead_salesstage,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_distribution_status,635970000,"",1033,Pending,zift_distributionstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_distribution_status,635970001,"",1033,Accepted,zift_distributionstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_distribution_status,635970002,"",1033,Rejected,zift_distributionstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_lead_status,635970000,"",1033,Open - Not Contacted,zift_leadstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_lead_status,635970001,"",1033,Working - Contacted,zift_leadstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_lead_status,635970002,"",1033,Nurture,zift_leadstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_lead_status,635970003,"",1033,Closed - Converted,zift_leadstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+zift_lead_status,635970004,"",1033,Closed - Not Converted,zift_leadstatus,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+confirminterest,1,"",1033,No,confirminterest,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+confirminterest,0,"",1033,Yes,confirminterest,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+decisionmaker,1,"",1033,completed,decisionmaker,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+decisionmaker,0,"",1033,mark complete,decisionmaker,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+evaluatefit,1,"",1033,No,evaluatefit,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+evaluatefit,0,"",1033,Yes,evaluatefit,lead,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,5,"",1033,Cortana,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,6,"",1033,Direct Line,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,7,"",1033,Microsoft Teams,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,8,"",1033,Direct Line Speech,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,9,"",1033,Email,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,10,"",1033,GroupMe,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,11,"",1033,Kik,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,12,"",1033,Telegram,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,13,"",1033,Skype,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,14,"",1033,Slack,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,15,"",1033,WhatsApp,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,16,"",1033,Apple Messages For Business,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,17,"",1033,Google's Business Messages,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,3,"",1033,Line,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,4,"",1033,Wechat,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,1,"",1033,Facebook,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,2,"",1033,Twitter,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+community,0,"",1033,Other,socialprofile_community,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,0,"",1033,Low,activitypointer_deliveryprioritycode,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,1,"",1033,Normal,activitypointer_deliveryprioritycode,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+deliveryprioritycode,2,"",1033,High,activitypointer_deliveryprioritycode,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_statusreason,179920000,"",1033,Internal,dow_statusreason,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_statusreason,179920001,"",1033,Business Collaboration,dow_statusreason,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_statusreason,179920002,"",1033,Escalation,dow_statusreason,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_statusreason,179920003,"",1033,Referred to Distribution,dow_statusreason,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,incidentresolution,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_salesrevenuesource,1,"",1033,Automatic - BW,dow_salesrevenuesource,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_salesrevenuesource,2,"",1033,Automatic - POS,dow_salesrevenuesource,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_salesrevenuesource,3,"",1033,Manual,dow_salesrevenuesource,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,0,"",1033,None,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,1,"",1033,Detail Error,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,2,"",1033,Missing Price Level,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,3,"",1033,Inactive Price Level,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,4,"",1033,Missing Quantity,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,5,"",1033,Missing Unit Price,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,6,"",1033,Missing Product,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,7,"",1033,Invalid Product,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,8,"",1033,Missing Pricing Code,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,9,"",1033,Invalid Pricing Code,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,10,"",1033,Missing UOM,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,11,"",1033,Product Not In Price Level,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,12,"",1033,Missing Price Level Amount,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,13,"",1033,Missing Price Level Percentage,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,14,"",1033,Missing Price,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,15,"",1033,Missing Current Cost,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,16,"",1033,Missing Standard Cost,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,17,"",1033,Invalid Price Level Amount,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,18,"",1033,Invalid Price Level Percentage,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,19,"",1033,Invalid Price,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,20,"",1033,Invalid Current Cost,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,21,"",1033,Invalid Standard Cost,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,22,"",1033,Invalid Rounding Policy,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,23,"",1033,Invalid Rounding Option,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,24,"",1033,Invalid Rounding Amount,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,25,"",1033,Price Calculation Error,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,26,"",1033,Invalid Discount Type,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,27,"",1033,Discount Type Invalid State,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,28,"",1033,Invalid Discount,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,29,"",1033,Invalid Quantity,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,30,"",1033,Invalid Pricing Precision,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,31,"",1033,Missing Product Default UOM,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,32,"",1033,Missing Product UOM Schedule ,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,33,"",1033,Inactive Discount Type,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,34,"",1033,Invalid Price Level Currency,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,35,"",1033,Price Attribute Out Of Range,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,36,"",1033,Base Currency Attribute Overflow,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,37,"",1033,Base Currency Attribute Underflow,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,38,"",1033,Transaction currency is not set for the product price list item,qooi_pricingerrorcode,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+producttypecode,1,"",1033,Product,qooiproduct_producttype,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+producttypecode,2,"",1033,Bundle,qooiproduct_producttype,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+producttypecode,3,"",1033,Required Bundle Product,qooiproduct_producttype,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+producttypecode,4,"",1033,Optional Bundle Product,qooiproduct_producttype,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+producttypecode,5,"",1033,Project-based Service,qooiproduct_producttype,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+propertyconfigurationstatus,0,"",1033,Edit,qooiproduct_propertiesconfigurationstatus,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+propertyconfigurationstatus,1,"",1033,Rectify,qooiproduct_propertiesconfigurationstatus,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+propertyconfigurationstatus,2,"",1033,Not Configured,qooiproduct_propertiesconfigurationstatus,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+skippricecalculation,0,"",1033,DoPriceCalcAlways,qooidetail_skippricecalculation,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+skippricecalculation,1,"",1033,SkipPriceCalcOnCreate,qooidetail_skippricecalculation,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+skippricecalculation,2,"",1033,SkipPriceCalcOnUpdate,qooidetail_skippricecalculation,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+skippricecalculation,3,"",1033,SkipPriceCalcOnUpSert,qooidetail_skippricecalculation,opportunityproduct,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000000,"",1033,NAA,dow_regionoptionset,phonecall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000001,"",1033,LAA,dow_regionoptionset,phonecall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000002,"",1033,EMEAI,dow_regionoptionset,phonecall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_area,100000003,"",1033,APAC,dow_regionoptionset,phonecall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,1,"",1033,Yes,activitypointer_isregularactivity,phonecall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isregularactivity,0,"",1033,No,activitypointer_isregularactivity,phonecall,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,0,"",1033,Published,componentstate,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,1,"",1033,Unpublished,componentstate,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,2,"",1033,Deleted,componentstate,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+componentstate,3,"",1033,Deleted Unpublished,componentstate,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isautoassigned,0,"",1033,No,securityrole_isautoassigned,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isautoassigned,1,"",1033,Yes,securityrole_isautoassigned,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isinherited,0,"",1033,Team privileges only,isinherited,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+isinherited,1,"",1033,Direct User (Basic) access level and Team privileges,isinherited,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+ismanaged,1,"",1033,Managed,ismanaged,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+ismanaged,0,"",1033,Unmanaged,ismanaged,role,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,1,"",1033,Material,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,2,"",1033,Trade Product,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,3,"",1033,Plan Product,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,4,"",1033,Profit Center,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,5,"",1033,Performance Center,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,6,"",1033,Value Center,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,7,"",1033,Business,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,8,"",1033,Business Group,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_productlayer,9,"",1033,Management Group,dow_productlayer,product,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,10,"",1033,Small Parcel Air,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,1,"",1033,Air,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,2,"",1033,Always High,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,3,"",1033,Barge,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,4,"",1033,DSV,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,5,"",1033,MPC,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,6,"",1033,N/A,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,7,"",1033,Rail,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,8,"",1033,Truck,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_transportationmode,9,"",1033,Collect INTL Air,dow_transportationmode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+ordercreationmethod,776160000,"",1033,Unknown,salesordercreationmethod,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+ordercreationmethod,776160001,"",1033,Win Quote,salesordercreationmethod,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,0,"",1033,None,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,1,"",1033,Detail Error,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,2,"",1033,Missing Price Level,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,3,"",1033,Inactive Price Level,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,4,"",1033,Missing Quantity,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,5,"",1033,Missing Unit Price,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,6,"",1033,Missing Product,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,7,"",1033,Invalid Product,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,8,"",1033,Missing Pricing Code,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,9,"",1033,Invalid Pricing Code,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,10,"",1033,Missing UOM,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,11,"",1033,Product Not In Price Level,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,12,"",1033,Missing Price Level Amount,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,13,"",1033,Missing Price Level Percentage,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,14,"",1033,Missing Price,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,15,"",1033,Missing Current Cost,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,16,"",1033,Missing Standard Cost,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,17,"",1033,Invalid Price Level Amount,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,18,"",1033,Invalid Price Level Percentage,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,19,"",1033,Invalid Price,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,20,"",1033,Invalid Current Cost,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,21,"",1033,Invalid Standard Cost,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,22,"",1033,Invalid Rounding Policy,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,23,"",1033,Invalid Rounding Option,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,24,"",1033,Invalid Rounding Amount,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,25,"",1033,Price Calculation Error,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,26,"",1033,Invalid Discount Type,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,27,"",1033,Discount Type Invalid State,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,28,"",1033,Invalid Discount,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,29,"",1033,Invalid Quantity,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,30,"",1033,Invalid Pricing Precision,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,31,"",1033,Missing Product Default UOM,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,32,"",1033,Missing Product UOM Schedule ,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,33,"",1033,Inactive Discount Type,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,34,"",1033,Invalid Price Level Currency,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,35,"",1033,Price Attribute Out Of Range,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,36,"",1033,Base Currency Attribute Overflow,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,37,"",1033,Base Currency Attribute Underflow,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+pricingerrorcode,38,"",1033,Transaction currency is not set for the product price list item,qooi_pricingerrorcode,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+skippricecalculation,0,"",1033,DoPriceCalcAlways,qooi_skippricecalculation,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+skippricecalculation,1,"",1033,SkipPriceCalcOnRetrieve,qooi_skippricecalculation,salesorder,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,0,"",1033,No Committed Budget,budgetstatus,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,1,"",1033,May Buy,budgetstatus,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,2,"",1033,Can Buy,budgetstatus,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+budgetstatus,3,"",1033,Will Buy,budgetstatus,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,20,"",1033,Baidu,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,21,"",1033,Bing,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,15,"",1033,Bing Ads,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,4,"",1033,Chemformation,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,6,"",1033,Direct Mail Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,7,"",1033,Distributor Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,47,"",1033,Dow,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,8,"",1033,Email ID,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,16,"",1033,Customer Inquiry,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,9,"",1033,eMarket Place Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,10,"",1033,Event Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,25,"",1033,Facebook,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,17,"",1033,Field Sales,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,12,"",1033,Google,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,13,"",1033,GoogleAds,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,26,"",1033,Instagram,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,27,"",1033,KakaoTalk,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,3,"",1033,Kompass,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,28,"",1033,LinkedIn,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,24,"",1033,Naver,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,49,"",1033,Other,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,29,"",1033,Pinterest,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,5,"",1033,Platform Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,11,"",1033,QR Code,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,19,"",1033,Seminar Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,1,"",1033,SpecialChem,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,18,"",1033,TS&D,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,43,"",1033,Tradeshow Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,30,"",1033,Twitter,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,2,"",1033,UL Prospector,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,48,"",1033,Vanity_URL,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,31,"",1033,Vimeo,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,33,"",1033,WeChat,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,32,"",1033,Weibo,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,34,"",1033,WhatsApp,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,45,"",1033,Webinar Name,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,14,"",1033,Yahoo,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,35,"",1033,Youku,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,36,"",1033,Youtube,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,50,"",1033,Knowde,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,51,"",1033,1688,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_channelsource,52,"",1033,Alchemdex,dow_channelsource,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_opportunitycategory,1,"",1033,Competitive,dow_opportunitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_opportunitycategory,2,"",1033,Growth,dow_opportunitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_opportunitycategory,3,"",1033,Lost,dow_opportunitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_previouscategory,1,"",1033,Competitive,dow_opportunitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_previouscategory,2,"",1033,Growth,dow_opportunitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_previouscategory,3,"",1033,Lost,dow_opportunitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,6,"",1033,Affiliates/3rd Party,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,20,"",1033,Chat,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,21,"",1033,Direct Mail,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,2,"",1033,Distributor,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,22,"",1033,eMarket Places,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,10,"",1033,Email Marketing,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,9,"",1033,Other Events,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,23,"",1033,Paid Search,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,24,"",1033,Phone/Visit,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,25,"",1033,Seminar,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,11,"",1033,Social Media Organic,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,26,"",1033,Social Media Paid,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,17,"",1033,Tradeshow,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,7,"",1033,Website,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_source,18,"",1033,Webinar,dow_source,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,1,"",1033,Safe Materials,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,2,"",1033,Resource Efficiency,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,3,"",1033,Climate Protection,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,4,"",1033,Circular Economy,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,5,"",1033,Golf,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,6,"",1033,Mobility,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,7,"",1033,Other,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,8,"",1033,Formula E/Jaguar Racing,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,9,"",1033,NASCAR/RCR,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,10,"",1033,LPGA Tour,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,11,"",1033,PGA Tour,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,12,"",1033,USA Luge,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_subcategory,13,"",1033,Tennis,dow_sustainabilitycategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920000,"",1033,Climate Protection,dow_sustainability,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920001,"",1033,Circular Economy,dow_sustainability,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainability,179920002,"",1033,Safer Materials,dow_sustainability,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920004,"",1033,Advanced Recycling,dow_sustainabilitysubcategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920002,"",1033,Avoided Emissions,dow_sustainabilitysubcategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
+dow_sustainabilitysubcategory,179920005,"",1033,Bio-based,dow_sustainabilitysubcategory,opportunity,2024-11-01 09:48:11,GlobalOptionsetMetadata,2024-11-01 09:48:11,GlobalOptionsetMetadata,false
