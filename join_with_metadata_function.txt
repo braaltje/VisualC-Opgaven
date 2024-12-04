@@ -1,0 +1,47 @@
+def join_with_metadata(
+    df: DataFrame, 
+    df_metadata_table: DataFrame,    
+    entity: str,
+    optionsetname: str,    
+) -> DataFrame:
+    """
+    Joins the df DataFrame with df_metadata based on provided conditions and returns the result with
+    all columns from df and the LocalizedLabel column from df_metadata.
+
+    Parameters:
+    - df: Input DataFrame containing opportunity data.
+    - df_metadata: Input DataFrame containing metadata.    
+    - entity: The filter value for the entity for which to join the metadata
+    - optionsetname: The filter value for the OptionSetName column in df_metadata.
+
+    Returns:
+    - DataFrame: The resulting DataFrame after the join.
+    """
+
+    # filter the metadata dataframe based on the optionsetname
+    df_metadata_table = df_metadata.filter(
+        (df_metadata["EntityName"] == "opportunity") & (df_metadata["OptionSetName"] == optionsetname)  
+    )
+    
+    # Rename the "LocalizedLabel" column to "<optionSetName>_label" to make it unique
+    # and prevent conflicts during joins with other DataFrames.
+    df_metadata_table = df_metadata_table.withColumnRenamed("LocalizedLabel", f"{optionsetname}_label")
+    
+    # Define the join condition
+    cond = [
+        df_metadata_table["Option"] == df[optionsetname], # optionsetname here represents the column name in the entity's dataframe
+        df_metadata_table["OptionSetName"] == optionsetname,
+        df_metadata_table["EntityName"] == entity
+    ]
+    
+    # Perform the join and select the required columns
+    df_joined = (
+        df
+        .join(df_metadata_table, cond, "left")
+        .select(
+            df["*"],            
+            df_metadata_table[optionsetname + "_label"]
+        )
+    )    
+    
+    return df_joined
