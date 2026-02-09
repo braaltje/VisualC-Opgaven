@@ -1,0 +1,36 @@
+1. If it is an update or delete, add code to make it a select.
+2. Understand the joins, why is it there:
+	2.a you need a column for the select
+	2.b you need a field for the where clause
+	2.c you need the join as a bridge to a third table
+	2.d you need to join to the table to filter records (such as retrieving details on customers who have orders but not needing 
+	the order details, can often be done better with an IF EXISTS where clause)
+	
+	Is it a left join or right join (consider rewriting everything to a left join, which makes life simpler), consider whether
+	an inner join would work.
+	
+3. Look at the WHERE clauses.
+4. Consider any complex bits of the SELECT list next.
+	What does the CASE statement do? 
+	Why is there a subquery?
+	What do those functions do?
+	Why is there a DISTINCT? Can it be replaced by a derived table or aggregate function and GROUP BY statements?
+	
+
+Hints:
+- Comments: figure out what a small chunk does and comment it.
+- Syntax highlighting: view the code with something that color-codes the query
+- Indentation: reorganize the query to make sense for you; tab things over, add carriage returns, etc.
+
+Another approach:
+- Format the SQL.
+- Comment out all parts of the script other than the basic parts.
+- One by one un-comment the joins, select columns, groupings, order fields & filters to isolate different parts of the query.
+	Highlighted-execution works in some tools.
+- Subqueries can usually be executed independently.
+
+SQL Code Analysis tools
+- VS Code SQLTools: https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools
+- VS Code MSSQL Extension: https://learn.microsoft.com/en-us/sql/tools/visual-studio-code-extensions/mssql/mssql-extension-visual-studio-code?view=sql-server-ver17
+- sqlfmt: https://sqlfmt.com/
+- tips: https://levelup.gitconnected.com/transforming-vs-code-into-a-powerful-sql-ide-26286a2726bf
